@@ -158,7 +158,6 @@ void graficoEdades(EPersona lista[])
             }
         }
     }
-    //
 
     if(hasta18 >= de19a35 && hasta18 >= mayorDe35)
     {

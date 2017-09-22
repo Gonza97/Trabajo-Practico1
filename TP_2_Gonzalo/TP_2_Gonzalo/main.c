@@ -5,6 +5,7 @@
 
 int main()
 {
+    system("color 1B");
     char seguir='s';
     int opcion=0;
 
